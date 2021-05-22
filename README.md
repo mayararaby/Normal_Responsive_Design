@@ -1,7 +1,7 @@
 # Normal_Responsive_Design
 
 
-This website is responsive web design made using Html , Css and Bootstrap
+This website is responsive web design made using Html , Css and Bootstrap 4.
 
 You can check the live demo from [here](https://itirwd.netlify.app/)
 
