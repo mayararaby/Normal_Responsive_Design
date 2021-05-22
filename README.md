@@ -3,7 +3,7 @@
 
 This website is responsive web design made using Html , Css and Bootstrap
 
-You can check the live game from [here](https://itirwd.netlify.app/)
+You can check the live demo from [here](https://itirwd.netlify.app/)
 
 ## Demo
 
